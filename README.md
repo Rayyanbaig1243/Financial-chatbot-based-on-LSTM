@@ -4,3 +4,5 @@ This article introduces a professional chat robot: Doraemon, which can answer  q
 These 2 projects require your environment to install keras, pytorch, anaconda, jupyter notebook. If you have't these packages and environment please satisfy it first.
 
 To run the complete code, you just need to open it with jupyter notebook, and run it. At the end of the code, there will be simple chatbots.
+
+#How To Contribute
